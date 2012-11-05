@@ -1,0 +1,12 @@
+system/lib/libopencore_common.so
+system/lib/libomx_sharedlibrary.so
+system/lib/libomx_m4vdec_sharedlibrary.so
+system/lib/libomx_m4venc_sharedlibrary.so
+system/lib/libomx_avcdec_sharedlibrary.so
+system/etc/pvplayer.cfg
+system/bin/rild_sp
+system/lib/libril_sp.so
+system/lib/libreference-ril_sp.so
+system/bin/sprd_monitor
+system/bin/phoneserver
+system/bin/phoneserver_2sim
