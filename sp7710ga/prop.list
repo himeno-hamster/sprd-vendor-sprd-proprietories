@@ -10,4 +10,3 @@ system/lib/libril_sp.so
 system/lib/libreference-ril_sp.so
 system/bin/sprd_monitor
 system/bin/phoneserver
-system/bin/phoneserver_2sim

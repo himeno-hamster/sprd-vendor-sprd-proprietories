@@ -7,7 +7,5 @@ system/etc/pvplayer.cfg
 system/bin/rild_sp
 system/lib/libril_sp.so
 system/lib/libreference-ril_sp.so
-system/bin/sprd_monitor
 system/bin/phoneserver
-system/bin/phoneserver_2sim
 system/bin/akmd8975
