@@ -1,3 +1,4 @@
+system/lib/libomx_m4vh263dec_hw_sprd.so
 system/lib/libomx_m4vh263dec_sw_sprd.so
 system/lib/libomx_m4vh263enc_hw_sprd.so
 system/lib/libomx_avcdec_hw_sprd.so
